@@ -12,5 +12,5 @@ Após obter suas medidas, a calculadora utiliza fórmulas famosas e confiáveis 
 ## Referência
 
  - [Mais sobre a formula de "bodyfat" da marinha americana](https://nutricionando.com.br/formula-de-gordura-corporal-marinha-dos-eua/)
- - [Informações sobre o IMC](•https://www.programasaudefacil.com.br/calculadora-de-imc)
+ - [Informações sobre o IMC](https://www.programasaudefacil.com.br/calculadora-de-imc)
  - [Informações sobre taxa metabólica basal](https://www.tuasaude.com/calculadora/taxa-metabolica-basal)
